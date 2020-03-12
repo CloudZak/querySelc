@@ -17,4 +17,3 @@ let start = document.getElementById('start'),
     inputYear = document.querySelector('.year-value'),
     inputMonth = document.querySelector('.month-value'),
     inputDay = document.querySelector('.day-value');
-console.log(monthsavings_value[0]);
